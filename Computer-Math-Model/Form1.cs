@@ -24,7 +24,7 @@ namespace Computer_Math_Model
         {
             Process proc = new Process();
             proc.StartInfo.UseShellExecute = true;
-            proc.StartInfo.FileName = "https://github.com/2KIRAT3/Witcher-Backup-Of-Saves";
+            proc.StartInfo.FileName = "https://github.com/2KIRAT3/Computer-Math-Model";
             proc.Start();
         }
         private void Form1_Load(object sender, EventArgs e)
